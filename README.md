@@ -75,5 +75,5 @@ The dashboard includes:
 ---
 
 ## 👩‍💻 Author
-Sharmi
+Sharmiiladevi K
 
